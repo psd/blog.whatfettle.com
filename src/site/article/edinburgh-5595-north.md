@@ -1,0 +1,10 @@
+---
+title: Edinburgh 55.95 North
+timestamp: 2007-01-06T21:37:59Z
+date: 2007-01-06
+---
+
+<a href="http://maps.google.com/maps?f=q&hl=en&q=http://whatfettle.com/2007/01/55.95.kml&ie=UTF8&z=2&ll=55.973798,-46.40625&spn=85.154333,326.25&om=1">
+<img src="http://blog.whatfettle.com//images/55N.png" height="162" width="263" border="0" hspace="4" vspace="4" alt="55N" title="55N" longdesc="55N on Google Maps" />
+</a>
+<p>You know mid-January isn't the best time to <a href="http://www.flickr.com/search/?q=edinburgh&w=45581782%40N00&s=int">visit</a> <a href="http://en.wikipedia.org/wiki/Edinburgh">Edinburgh</a>, it's <a href="http://maps.google.com/maps?f=q&hl=en&q=http://whatfettle.com/2007/01/55.95.kml&ie=UTF8&z=2&ll=55.973798,-46.40625&spn=85.154333,326.25&om=1">on the 55th Parallel</a> along with <a href="http://maps.google.com/maps?f=q&hl=en&q=http://whatfettle.com/2007/01/55.95.kml&ie=UTF8&om=1&z=8&ll=56.001453,36.304321&spn=1.274704,5.097656&iwloc=D">Moscow</a>, <a href="http://maps.google.com/maps?f=q&hl=en&q=http://whatfettle.com/2007/01/55.95.kml&ie=UTF8&om=1&z=6&ll=56.14555,-86.396484&spn=5.081086,20.390625&iwloc=B">Hudson Bay</a> and <a href="http://maps.google.com/maps?f=q&hl=en&q=http://whatfettle.com/2007/01/55.95.kml&ie=UTF8&om=1&z=6&ll=55.875311,-132.099609&spn=5.11671,20.390625&iwloc=C">Alaska</a>,  there's only <a href="http://www.timeanddate.com/worldclock/astronomy.html?n=304">7¼ hours of daylight</a>, yet it's <a href="http://www.bbc.co.uk/weather/5day.shtml?world=0005">warm and wet</a> thanks to the good old <a href="http://en.wikipedia.org/wiki/Gulf_Stream">Gulf Stream</a> (let's hope that <a href="http://www.whoi.edu/institutes/occi/viewArticle.do?id=9986">doesn't change</a> anytime soon). BUT the <a href="http://en.wikipedia.org/wiki/Fish_and_chips#Scotland">Fish 'n' Chips</a> are great, as are <a href="http://www.edinburgh247.com/edinburgh-pub-guide.asp">the pubs</a>, so put "one in the pump" for me.</p>

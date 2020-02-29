@@ -1,0 +1,8 @@
+---
+title: My First Video Blog
+timestamp: 2007-09-30T17:48:44Z
+date: 2007-09-30
+---
+
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/pBJ4wSD-mOQ" frameborder="0">
+</iframe><p>OK, so it's Saturday morning, afternoon actually, and here's the start of an experiment guaranteed not to last: Video Blogging! So the kids are downstairs trying to do their homework, being berated [encouraged!] by Lucy and I'm upstairs locked in the attic doing my accounts and expenses. [Sigh!] Sometimes I think my personal hell will look like the film <a href="http://imdb.com/title/tt0088846/">Brazil</a> with me amongst the rows of people all doing expenses and accounts for eternity. Well let's see how long this [experiment] continues, and hopefully the next one will be more cheerful! Ok, goodbye!</p><p>I started this off in Facebook, but their video application messed the audio sync up, and of course the walled garden reduced my audience. If you like this, after seeking help you might want to subscribe to the <a href="http://www.youtube.com/rss/user/psdowney/videos.rss">RSS feed</a> using a player such as <a href="http://www.getmiro.com/">Miro</a>.</p><a href="http://subscribe.getMiro.com/?url1=http%3A//www.youtube.com/rss/user/psdowney/videos.rss" title="Miro: Internet TV"><img src="http://subscribe.getmiro.com/img/buttons/one-click-subscribe-109X34.png" alt="Miro Video Player" border="0" /></a>

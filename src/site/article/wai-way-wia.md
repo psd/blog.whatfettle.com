@@ -1,0 +1,12 @@
+---
+title: Who am I? Who are you? Who is Anybody?
+timestamp: 2011-10-17T15:06:18Z
+date: 2011-10-17
+---
+
+<p><a href="http://www.flickr.com/photos/psd/6240449677/" title="GOTO Conference by psd, on Flickr"><img src="http://farm7.static.flickr.com/6238/6240449677_bca0957106_z.jpg" alt="GOTO Conference"></a></p><p>Back from the lovely <a href=""><abbr title="officially called Aarhus for the 7bit Ascii world">Århus</abbr></a> where I was lucky enough to be invited by <span class="vcard"><a rel="friend met colleague" class="fn url" href="http://iansrobinson.com/">Ian Robinson</a></span> to speak at the renowned <span class="vcard"><a class="org fn url" href="http://gotocon.com/aarhus-2011/">GOTO</a></span> (née JAOO) conference.</p><p>When developing <a href="http://lanyrd.com/2011/gotocon-aarhus/sftwx/">the abstract</a>, we settled on a guide to the Identity landscape, pointing out some of the landmarks, equipping the audience to deal with unforeseen perils of this dangerously confusing and rapidly changing territory through interesting examples of common pitfalls.</p><p>In the event I realised I was in trouble after sitting though a parade of consummate in-depth and hilarious talks by the likes of <span class="vcard"><a rel="friend colleague met" class="fn url" href="http://lanyrd.com/profile/jaffathecake/">Jake Archibald</a></span>, <span class="vcard"><a rel="friend colleague met" class="fn url" href="http://brian.io/">Brian LeRoux</a></span>, <span class="vcard"><a rel="met colleague" class="fn url" href="http://le.mu.rs/">Mike Lee</a></span>, <span class=""><a href=""></a></span> and of course Ian himself. This conference was full of entertaining speakers who backed up their quips with hard evidence and solid research. Merely pointing at Web sites, waving hands and bewailing “here be disquieting dragons” really wasn't going to cut it. So I was comparatively unhappy with my performance, and the feedback from a stoically Scandinavian and somewhat phlegmatic audience was split between Green (great!) and Yellow (Hmmm) with quite a few Red (get orf!) ratings.</p><p>Maybe I can make amends by writing the talk down and putting it up, here.</p><p>But .. it's a long read, in danger of withering on the draft, so I'll post it in three parts:</p>
+<ol>
+	<li><a href="/wai-way-wia-part-one/">Part One: Who am I?</a></li>
+	<li>Part Two: Who are you?</li>
+	<li>Part Three: Who is anybody?</li>
+</ol>

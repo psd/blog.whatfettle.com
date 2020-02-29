@@ -1,0 +1,19 @@
+---
+title: TiddlyPocketBook
+timestamp: 2010-09-15T17:34:35Z
+date: 2010-09-15
+---
+
+<a href="http://www.flickr.com/photos/psd/4992316117/" title="TiddlyPocketBook.com by psd, on Flickr"><img src="http://farm5.static.flickr.com/4088/4992316117_e09fc130d6.jpg" alt="TiddlyPocketBook.com" /></a><p>A couple of years ago <span class="vcard"><a href="http://suda.co.uk/" class="fn url" rel="met friend colleague">Brian Suda</a></span>, who is a constant source of inspiration, visited <a href="http://osmosoft.com" class="org">Osmosoft</a> and enthused about <a href="http://www.aaronland.info/talks/papernet/">the papernet</a> in particular <a href="http://www.pocketmod.com/">pocketmod</a>, a fabulous old idea, full of potential, but trapped inside a Flash application. Luckily he also inspired <span class="vcard"><a href="http://natbat.net/" rel="friend met colleage" class="fn url">Natbat</a></span> who came up with a neat stylesheet for making <a href="http://natbat.net/2009/May/21/pocketbooks/">dinky pocket books</a> using just HTML and CSS. From there it was a simple matter to put Natalie's stylesheet into a <a href="http://tiddlywiki.com">TiddlyWiki</a> and <a href="http://tiddlypocketbook.com">TiddlyPocketBook.com</a> was born.</p>
+<p>The advantage of putting this into a TiddlyWiki is you can edit the page using either wikitext or HTML, and <a href="http://tiddlywiki.com/#SaveChanges">save changes locally</a>:</p>
+<a href="http://www.flickr.com/photos/psd/3559380572/" title="TiddlyPocketBook by psd, on Flickr"><img src="http://farm4.static.flickr.com/3632/3559380572_1d9c329892.jpg" width="500" height="367" alt="TiddlyPocketBook" /></a>
+<p>The CSS Stylesheet works well in modern browsers, i.e Firefox 3.5 and Safari:</p>
+<a href="http://www.flickr.com/photos/psd/4992924456/" title="TiddlyPocketBook Print by psd, on Flickr"><img src="http://farm5.static.flickr.com/4083/4992924456_79fa065f9b.jpg" width="354" height="500" alt="TiddlyPocketBook Print" /></a>
+<p>Unfortunately with the current version of Chrome on the Mac, the Stylesheet works fine in the browser but it has a strange glitch when it actually comes to printing:</p>
+<a href="http://www.flickr.com/photos/psd/4993501272/" title="TiddlyPocketBook Chrome Bug by psd, on Flickr"><img src="http://farm5.static.flickr.com/4153/4993501272_533df12d9c.jpg" width="360" height="261" alt="TiddlyPocketBook Chrome Bug" /></a>
+<p>Once printed out, making a pocketbook is a matter of scoring the single-sided printed paper, a single cut and some careful folding. I've had good results gluing the books back-to-back using spray-mount:</p>
+<a href="http://www.flickr.com/photos/psd/3573593055/" title="Making a PocketBook by psd, on Flickr"><img src="http://farm4.static.flickr.com/3405/3573593055_bfeafa0684.jpg" width="500" height="253" alt="Making a PocketBook" /></a>
+<p>Alternatively you can fold the page down the middle for a concertina booklet:</p>
+<a href="http://www.flickr.com/photos/psd/4993374790/" title="Concertina Fold by psd, on Flickr"><img src="http://farm5.static.flickr.com/4092/4993374790_6bb4c2d94c.jpg" width="330" height="500" alt="Concertina Fold" /></a>
+<p>An easy way to make your own pocketbook is to signup to <a href="http://tiddlyspace.com">TiddlySpace.com</a>, visit <a href="http://pocketbook.tiddlyspace.com">http://pocketbook.tiddlyspace.com</a> and from the user menu [top right] create a new space, "<code>mypocketbook</code>" remembering to check "<code>Include the current space in the new space</code>". When you visit http://mypocketbook.tiddlyspace.com there will be a pocketbook waiting for you to add content. Have fun!</p>
+<a href="http://www.flickr.com/photos/psd/3594555403/" title="TiddlyPocketBooks by psd, on Flickr"><img src="http://farm4.static.flickr.com/3616/3594555403_d8ce75eb9a.jpg" width="500" height="449" alt="TiddlyPocketBooks" /></a>

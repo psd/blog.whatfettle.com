@@ -1,0 +1,7 @@
+---
+title: One World - One Web Day
+timestamp: 2008-08-04T14:08:41Z
+date: 2008-08-04
+---
+
+<a href="http://www.flickr.com/photos/psd/2731067095/" title="One World - One Web by psd, on Flickr"><img src="http://farm4.static.flickr.com/3156/2731067095_73f8f62020_z.jpg" width="640" height="452" alt="One World - One Web" /></a><p>Inspired by a <a href="http://earthday.net/">Earth Day</a>, <a href="http://onewebday.org/">One Web Day</a> is an event, held each year on the 22nd September to celebrate and cherish this amazing, precious thing called The Web. There are no less than <a href="http://www.onewebday.org/base/index.php/OneWebDay_in_a_box">40 suggested ways</a> you can participate, including signing up as one of <a href="http://onewebday.org/base/index.php/OWD_Ambassadors_2008">100 daily ambassadors</a>.</p><p>For my part as today's ambassador, I shied away from telling a single, personal story about how the Web has impacted me, because that's a continual thing, and decided instead to draw a <a href="http://flickr.com/photos/psd/2731067095/">poster</a>. This started out as a series of “Home Sweet Home” sampler like mottos, drifted through some gentle Web homilies and ended up in fire and brimstone: “You're going to hell, RIA and RIAA lovers!”. Whoops! It's published under a <a href="http://creativecommons.org/licenses/by/3.0/">CC</a> license, and is available as high resolution PDF on <a href="http://www.archive.org/details/OneWorld-OneWeb">archive.org</a>.</p>

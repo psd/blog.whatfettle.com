@@ -1,0 +1,12 @@
+---
+title: Do you think this URI smells RESTful?
+timestamp: 2007-06-01T17:06:04Z
+date: 2007-06-01
+---
+
+<span class="vcard"><a href="http://intertwingly.net/blog/2007/06/01/Etymology" rel="colleague" class="fn url">Sam Ruby</a></span> picks up on <a href="http://atmanes.blogspot.com/2007/06/how-not-to-do-restful-web-services.html" class="url fn" rel="met colleague">Anne</a>:
+<blockquote>Notice that the URL contains a method name (getInfo) and query string containing the method parameters. This is NOT REST!</blockquote>
+<p>This tallies with one of my current pet peeves, people who think you can look at a URI and say anything about REST. I guess  in time such folks may learn to say “unlikely to be <a href="http://www.w3.org/Provider/Style/URI">cool</a>” or “I'm a <a href="http://www.flickr.com/photos/redux/97126279/">URL fetishist</a> and that doesn't fry my ham” than state absolutes involving the R-word.</p>
+<p>What I like about the Web is it doesn't tell me how to <i>think</i>, just how to <i>behave</i>, so I know it's <a href="http://blog.whatfettle.com/2005/10/31/is-it-safe/">safe</a> to shove Anne's URI into my browser, GET it and regardless of the English words which may appear amongst the punctuation no kittens will die, no nuclear missiles will fire, unless <a href="http://www.intertwingly.net/blog/2005/05/06/This-Stuff-Matters">someone is being careless</a>. What's more I don't need to know if the publisher happens to <i>think</i> of it as a method invocation because as soon as they give me a URI, it becomes a resource. Who's to say Google <i>think</i> “search” is a verb whilst I <i>think</i> it's a noun. Doesn't matter one jot!</p>
+<p>All the same, hats off to the likes of <span class="vcard"><a href="http://atmanes.blogspot.com" class="fn url" rel="met colleague">Anne Thomas-Manes</a>, <span class="vcard"><a href="http://wanderingbarque.com/nonintersecting/" class="fn url" rel="met colleague">Pete Lacey</a></span>, <a href="http://ironick.typepad.com/">Nick Gall</a>, <a href="http://apsblog.burtongroup.com/2007/05/rest_is_it_the_.html">Burton</a> and <a href="http://www.infoq.com/news/2007/05/is-rest-winning">Gartner</a> for starting to talk up REST and the Web. That makes educating vendor led IT wallahs that there's this thing called “<a href="http://www.w3.org/TR/webarch/">The Web</a>” a whole lot easier.</p>
+<p>In other news, just love <a href="http://www.oreilly.com/catalog/9780596529260/">the book</a>!</p>

@@ -1,0 +1,12 @@
+---
+title: Testing Times
+timestamp: 2006-07-09T09:09:42Z
+date: 2006-07-09
+---
+
+<a href="http://www.flickr.com/photos/psd/3061120/" title="Theatre in the Afternoon by psd, on Flickr"><img src="http://farm1.static.flickr.com/1/3061120_32f92d1647.jpg" width="500" height="375" alt="Theatre in the Afternoon" /></a><p>This post which has been fermenting for more than 18 months but remains nothing more than a half-baked idea. </p><p>Last Christmas <span class="vcard"><span class="fn" rel="spouse">Lucy</span></span> and I snuck off into London to see <span class="vcard"><a href="http://en.wikipedia.org/wiki/Alan_Bennett" rel="muse" class="fn url">Alan Bennett</a></span>'s <a href='http://www.nationaltheatre.org.uk/?lid=7785'>The History Boys</a>. It's British to the core, and captures what it was like to for someone of my generation to attend a state school from my part of the world. An excellent cast and universal themes explain why it's now <a href="http://www.historyboysonbroadway.com/">on Broadway</a> and in advanced production as a <a href="http://uk.imdb.com/title/tt0464049/">feature film</a>.</p><p>Dear geeks, may I humbly suggest you take any chance to see this because not only does this explain why your 40+ year old hairy-arsed northern-blogger is how he is*, it also provides a warning for those of us who advocate <a href="http://en.wikipedia.org/wiki/Test_driven_development">Test Driven Development.</a>. 
+</p><p>[minor spoiler:] The story surrounds a group of VI formers and the school's ambition that as many of them should go to <a href="http://en.wikipedia.org/wiki/Oxbridge">Oxbridge</a>, something no pupil from the school had achieved previously. Rather than providing them with an all-round education, the students are trained to pass the entrance exam itself. The results aren't exactly as intended, :</p><blockquote>Irwin: What happened at Oxford?<br>
+Man: Cambridge. It didn't work out.<br>
+Irwin: I think I heard that.<br>
+Man: All the effort went into getting there and then I had nothing left. I thought I got somewhere, but then I found I had to go on.
+</blockquote><p>In life as well as coding, you may pass all the tests presented, but remain unprepared for production.</p><p><i>*at no point did I get to "enjoy" a ride on my teacher's motorbike ;-)</i></p>

@@ -1,33 +1,20 @@
 ---
-title: Get Yours
+title: Paul Downey
+timestamp: 2006-08-17T19:44:21Z
+date: 2006-08-17
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
 ---
 
-## Hosting
+<div class="vcard">
+<a href="http://www.flickr.com/photos/psd/6641956439/" title="Getting Older by psd, on Flickr"><img src="http://farm8.staticflickr.com/7142/6641956439_0ff93f0eb8_z.jpg" alt="Getting Older"></a>
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+<p>My name is <a href="http://blog.whatfettle.com/" rel="me" class="fn url">Paul Downey</a> and I'm <a href="http://twitter.com/psd" rel="me" class="nickname">psd</a> on <a href="http://twitter.com/psd" rel="me">twitter</a>, <a href="http://flickr.com/people/psd" rel="me">flickr</a>, <a href="http://psd.tumblr.com" rel="me">Tumblr</a>, <a href="http://psd.github.com" rel="me">github</a>, <a href="http://lanyrd.com/profile/psd" rel="me">Lanyrd</a>, and <a href="/#elsewhere">a bunch of other places</a>.</p>
 
-<div class="nakedLink">
+<p>I'm currently a <a href="http://digital.cabinetoffice.gov.uk/2012/02/23/blurring-boundaries/">Technical Architect</a> at Her Majesty's <a href="http://digital.cabinetoffice.gov.uk">Government Digital Service</a>. Formerly I was <a href="http://www.bt.com">BT</a>'s Chief Web Services Architect, <a href="www.w3.org">W3C</a> Advisory Committee representative, and member of <a href="http://osmosoft.com">Osmosoft</a>. I'm a co-founder of <a href="http://solderpad.com">SolderPad</a> co-founder of <a href="http://oshug.org">OSHUG</a>, and am mildly notorious for a set of doodles collectively known as <a href="http://thewebisagreement.com">The Web is Agreement</a>.</p>
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+<p>I hail from <a href="http://en.wikipedia.org/wiki/Saltburn-by-the-Sea">Saltburn-by-the-Sea</a> but now reside in <span class="adr"><a href="http://en.wikipedia.org/wiki/Berkhamsted" class="locality">Berkhamsted</a>, <span class="country-name">England</span></span> with my wife Lucy, and three teenage children.</p>
 
+<p>You can contact me through <a href="mailto:psd@whatfettle.com" class="email">psd@whatfettle.com</a>, or on my <span class="tel"><span class="type">mobile</span> <a href="tel:+447918880881">+447918880881</a></span>.
+
+<a href="http://www.flickr.com/photos/ndw/107153844/"><img alt="Paul Animated" src="http://farm1.static.flickr.com/19/107153844_e013132315_z.jpg" /></a>
 </div>
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.

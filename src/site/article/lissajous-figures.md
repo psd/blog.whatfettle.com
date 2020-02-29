@@ -1,0 +1,7 @@
+---
+title: Lissajous Figures
+timestamp: 2007-05-29T17:04:03Z
+date: 2007-05-29
+---
+
+<a href="http://whatfettle.com/2007/05/bitmap/" title="Lissajous"><img src="http://farm1.static.flickr.com/242/520121613_854c8adaed.jpg" width="247" height="367" alt="Lissajous Figures" /></a><p>Inspired by <span class="vcard"><a href="" rel="met friend colleague co-worker" class="fn url" class="http://softwareas.com">Michael Mahemoff</a></span>'s lovely <a href="http://softwareas.com/announcing-bitjuice-ajax-bitmap-api">Bitjuice</a> hack, I couldn't resist recreating my 80s microcomputing "hello world" program: <a href="http://whatfettle.com/2007/05/bitmap/">a table</a> of <a href="http://en.wikipedia.org/wiki/Lissajous_curve">Lissajous Figures</a>. Like our attempt at <a href="http://www.w3.org/2002/ws/databinding/edcopy/venn/venn.html">visualising</a> the <a href="http://www.w3.org/2002/ws/databinding/">W3C XML Schema Patterns for Databinding</a>  <a href="http://www.w3.org/2002/ws/databinding/edcopy/report/all.html">test report</a> (very much work in progress!) this takes some time to load. Seems like big HTML tables are of the moment. Next stop - to add XOR to the drawLine and to think about a 80x25 character display so I can implement "Nightmare Park".. so many ideas, so little time ..</p>

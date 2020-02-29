@@ -1,0 +1,12 @@
+---
+title: Lost at Last
+timestamp: 2005-08-16T09:48:31Z
+date: 2005-08-16
+---
+
+<img src="http://blog.whatfettle.com/lost.jpg" height="150" width="300" border="0" hspace="4" vspace="4" alt="LOST" />
+
+<p>This post may bemuse those on the other side of the pond who are well past the first series and are now being bombarded with repeats, but here in the UK we've just had the first 'pilot' episode of ABC's <a href="http://www.imdb.com/title/tt0411008/combined">LOST</a> on <a href="">Channel 4</a> along with a ton of 'making of', 'behind the scenes of', 'where were you when ..', hype of the third order. </p>
+<p>Watching the show, it passes the time nicely, though the long term outlook doesn't look good. An air crash on an impossibly beautiful island where impossibly beautiful people with perfect teeth and perfect racial representation hang around as the plot frugally drips in. </p>
+<p>The committee of script writers have lots of prior art to work with: a boy looks at a comic with a picture of a polar bear, minutes later a real one materialises (<a href="http://www.ericweisstein.com/fun/startrek/ShoreLeave.html">Shore Leave</a>), bickering amongst the 'characters' is resolved by fisticuffs on <a href="http://www.imdb.com/title/tt0163978/combined">The Beach</a>, all whilst the id-monster from  <a href="http://www.imdb.com/title/tt0049223/combined">Forbidden Planet</a>, itself a rehash of <a href="http://en.wikipedia.org/wiki/The_Tempest_%28play%29">The Tempest</a> makes the odd appearance. Thus far, <a href="http://www.gerenser.com/lotf/">Lord of the Flies</a>, it ain't. Bad timing meant it came to us in the same week as "land of the clones", <a href="http://www.imdb.com/title/tt0399201/combined">The Island</a>, hit the cinemas and was universally <i>missed</i> by critics. <p>
+</p>The biggest puzzle is given it's hard to point at a mainstream Hollywood film which leaves you with any question unanswered or end untied, why Americans put up with TV series which go on and on well past the point of smelling iffy. It's well recognised that <a href="">Fawlty Towers</a> and <a href="">The Office</a> wouldn't be as popular now if they'd <a href="http://www.jumptheshark.com/">jumped the shark</a>. So, in <a href="http://observer.guardian.co.uk/review/story/0,6903,1548699,00.html">eight years</a> time, I guess we'll still have no more idea what is going on, let alone where they're getting all the toothpaste, sun bloc and hair gel. The big question is, will anyone still care?</p>

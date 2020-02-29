@@ -1,0 +1,12 @@
+---
+title: Visualising Wikipedia
+timestamp: 2006-09-30T10:20:53Z
+date: 2006-09-30
+---
+
+<a href="http://en.wikipedia.org/wiki/Mo%C3%A9"><img src="http://blog.whatfettle.com//images/Exploring-Moe%CC%81.png" height="356" width="624" border="1" hspace="4" vspace="4" alt="Exploring-Moé" title="Exploring-Moé" longdesc="Exploring-Moé" /></a>
+
+<p>Something I've noticed of late is how <a href="http://wikipedia.org">Wikipedia</a> has effectively become my <a href="http://en.wikipedia.org/wiki/Upper_ontology">upper ontology</a>. As I add more and more links in my utterings I wonder how useful it would be to <a href="http://en.wiktionary.org/wiki/annotate">annotate</a> <a href="http://en.wiktionary.org/wiki/each">each</a> <a href="http://en.wiktionary.org/wiki/and">and</a> <a href="http://en.wiktionary.org/wiki/every">every</a> <a href="http://en.wiktionary.org/wiki/word">word</a> with a link to it's precise meaning. Well its widely agreed meaning at some point in time. Then machines could do something cool later on. I guess I'm ripe for <a href="http://microformats.org/">Microformats</a>, <a href="http://www.w3.org/2001/sw/grddl-wg/">GRDDL</a> or <a href="http://www.w3.org/TR/xhtml-rdfa-primer/">RDF-A</a>.</p>
+<p>
+So I was rather excited by <a href="http://lists.w3.org/Archives/Public/semantic-web/2006Sep/0115.html">the prospect of</a> <a href="http://pathway.screenager.be/">Pathway</a>. The reality is slightly dissapointing. It's a shame that visualisations for representing relationships seem to have all fallen into this very flat convention of boxes joined by elastic bands, even when they're as interesting as <a href="http://www.theyrule.net">They Rule!</a>,  as smooth as <a href="http://www.quasimondo.com/tagnautica.php">Tagnautica</a>, as funny as <a href="http://www.harpers.org/beta/">ICONAUT</a> as well animated as <a href="http://www.genista.de/kai/assomain.html">associatr</a> or are extruded into 3D. Yeah <a href="http://www.gideontech.com/content/articles/326/3">I know Unix</a> and I don't want it to look like <a href="http://nooface.net/3dui.shtml">this</a>.  Oh and I want the linkability of <a href="http://wikipedia.org">Wikipedia</a>. There's got to be a better way.</p>
+<!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/semanticweb" rel="tag">semanticweb</a>, <a href="http://www.technorati.com/tag/visualisation" rel="tag">visualisation</a></p><!-- technorati tags end -->
