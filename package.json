@@ -1,8 +1,8 @@
 {
-  "name": "EleventyOne",
+  "name": "whatfettle",
   "version": "3.0.0",
-  "description": "A project bootstrap for Eleventy sites. With pipelines for PostCSS, JavaScript, and serverless functions",
-  "author": "Phil Hawksworth",
+  "description": "a static site generated using Phil Hawksworth's EleventyOne",
+  "author": "Paul Downey",
   "license": "MIT",
   "scripts": {
     "start": "npm run dev",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/philhawksworth/eleventyone"
+    "url": "https://github.com/psd/blog.whatfettle.com"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.8.3",
