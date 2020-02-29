@@ -1,7 +1,3 @@
 <footer id="footer">
-  A <a href="/" rel="home">Whatfettle</a> article by <a href="/about/">Paul Downey</a> published on the
-  <time datetime="">{{ page.date | dateDisplay('LLL d, yyyy - HH:mm') }}</time>
-  under a <a id="license" rel="license" href="https://creativecommons.org/licenses/by/3.0/"
-  title="Creative Commons License">Creative Commons License</a>.
-  The source code and content for this site is also available on <a href="{{ pkg.repository.url }}">GitHub</a>.
+  {% include "meta.njk" %}
 </footer>
