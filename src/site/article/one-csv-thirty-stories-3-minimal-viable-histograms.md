@@ -4,11 +4,12 @@ timestamp: 2014-10-15T19:53:33Z
 date: 2014-10-15
 ---
 
-	<p><em>This is day 3 of <a href="http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/">One <span class="caps">CSV</span>, 30 stories</a> a series of articles exploring <a href="https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads">price paid data</a> from the Land Registry found on <span class="caps">GOV</span>.UK. The code for this and the other articles is available as open source from <a href="https://github.com/psd/price-paid-data">GitHub</a></em></p>
+_This is day 3 of [One CSV, 30 stories](http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/) a series of articles exploring [price paid data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) from the Land Registry found on GOV.UK. The code for this and the other articles is available as open source from [GitHub](https://github.com/psd/price-paid-data)_
 
-	<p><a href="http://blog.whatfettle.com/2014/10/15/one-csv-thirty-stories-2-counting-things/">Yesterday</a> we counted the occurrence of values in each column and made some frequency data. Processing the files and writing up the findings took me a bit longer than I&#8217;d have liked. Today I&#8217;ve a seat on the train and aim to use my commute home to timebox some quick and dirty histograms. These are a cinch in awk for anyone who grew up playing with <span class="caps">BASIC</span> which in my case involved chewing up rolls of paper on my VI form college&#8217;s teletype link to a <a href="http://en.wikipedia.org/?title=UNIVAC_1100/60">Univac 1100/60</a> in Teesside Polytechnic:</p>
+[Yesterday](http://blog.whatfettle.com/2014/10/15/one-csv-thirty-stories-2-counting-things/) we counted the occurrence of values in each column and made some frequency data. Processing the files and writing up the findings took me a bit longer than I’d have liked. Today I’ve a seat on the train and aim to use my commute home to timebox some quick and dirty histograms. These are a cinch in awk for anyone who grew up playing with BASIC which in my case involved chewing up rolls of paper on my VI form college’s teletype link to a [Univac 1100/60](http://en.wikipedia.org/?title=UNIVAC_1100/60) in Teesside Polytechnic:
 
-<pre><code>$ head -25 price.tsv | awk &#39;NR == 1 {
+```
+$ head -25 price.tsv | awk 'NR == 1 {
     width = 60
     max = $1;
 }
@@ -20,11 +21,13 @@ date: 2014-10-15
         bar = bar&quot;#&quot;;
     count = sprintf(&quot;(%d)&quot;, $1);
     printf &quot;%-10s %10s %s\n&quot;, title, count, bar;
-}&#39;</code></pre>
+}'
+```
 
-	<p>which gives:</p>
+which gives:
 
-<pre><code>250000            (208199) #################################################################
+```
+250000            (208199) #################################################################
 125000            (185912) ###########################################################
 120000            (163323) ###################################################
 60000             (159519) ##################################################
@@ -48,24 +51,30 @@ date: 2014-10-15
 155000            (115309) ####################################
 185000            (111410) ###################################
 180000            (111090) ###################################
-65000             (109939) ###################################</code></pre>
+65000             (109939) ###################################
+```
 
-	<p>Putting this awk script into it&#8217;s own file <a href="https://github.com/psd/price-paid-data/blob/master/bin/histogram.awk">histogram.awk</a> gives us a command we can use again and again, allowing us to compare new versus old builds:</p>
+Putting this awk script into it’s own file [histogram.awk](https://github.com/psd/price-paid-data/blob/master/bin/histogram.awk) gives us a command we can use again and again, allowing us to compare new versus old builds:
 
-<pre><code>$ bin/histogram.awk &lt; data/new.tsv
+```
+$ bin/histogram.awk &lt; data/new.tsv
 N               (17351417) ############################################################
-Y                (1974154) #######</code></pre>
+Y                (1974154) #######
+```
 
-	<p>freehold (F) versus leaseholds (L) versus uncategorised (U):</p>
+freehold (F) versus leaseholds (L) versus uncategorised (U):
 
-<pre><code>$ head -10 data/duration.tsv | bin/histogram.awk 
+```
+$ head -10 data/duration.tsv | bin/histogram.awk 
 F               (14871813) #################################################################
 L                (4450166) ####################
-U                   (3592) #</code></pre>
+U                   (3592) #
+```
 
-	<p>and the distribution of prices paid is a typical long-tail:</p>
+and the distribution of prices paid is a typical long-tail:
 
-<pre><code>$ head -80 data/price.tsv | bin/histogram.awk 
+```
+$ head -80 data/price.tsv | bin/histogram.awk 
 250000            (208199) #################################################################
 125000            (185912) ###########################################################
 120000            (163323) ###################################################
@@ -145,11 +154,13 @@ U                   (3592) #</code></pre>
 83000              (49149) ################
 74000              (48966) ################
 73000              (48934) ################
-270000             (48631) ################</code></pre>
+270000             (48631) ################
+```
 
-	<p>Streets are something worth exploring another day, there&#8217;s real history in them names:</p>
+Streets are something worth exploring another day, there&#8217;s real history in them names:
 
-<pre><code>$ head -20 street.tsv  | ../bin/histogram.awk 
+```
+$ head -20 street.tsv  | ../bin/histogram.awk 
                   (284236) #################################################################
 HIGH STREET       (111407) ##########################
 STATION ROAD       (61918) ###############
@@ -169,11 +180,13 @@ WEST STREET        (17359) ####
 GREEN LANE         (17231) ####
 MILL LANE          (16908) ####
 THE GREEN          (16886) ####
-THE AVENUE         (16853) ####</code></pre>
+THE AVENUE         (16853) ####
+```
 
-	<p>and the other address fields are something we also need to dig into further because they&#8217;re pretty inconsistent. I assume that&#8217;s due to the longevity of this data, and differences in how the data is recorded by different people over the years:</p>
+and the other address fields are something we also need to dig into further because they&#8217;re pretty inconsistent. I assume that&#8217;s due to the longevity of this data, and differences in how the data is recorded by different people over the years:
 
-<pre><code>$ head -10 data/locality.tsv | bin/histogram.awk
+```
+$ head -10 data/locality.tsv | bin/histogram.awk
                  (4354411) #################################################################
 LONDON            (915332) ##############
 BIRMINGHAM        (112836) ##
@@ -183,9 +196,11 @@ LEEDS              (90163) ##
 BRISTOL            (89995) ##
 SHEFFIELD          (77372) ##
 BOURNEMOUTH        (61337) #
-SOUTHAMPTON        (57342) #</code></pre>
+SOUTHAMPTON        (57342) #
+```
 
-<pre><code>$ head -10 town.tsv  | ../bin/histogram.awk
+```
+$ head -10 town.tsv  | ../bin/histogram.awk
 LONDON           (1499904) #################################################################
 MANCHESTER        (312555) ##############
 BRISTOL           (296232) #############
@@ -195,9 +210,11 @@ LEEDS             (217870) ##########
 LIVERPOOL         (190190) #########
 SHEFFIELD         (183048) ########
 LEICESTER         (169283) ########
-SOUTHAMPTON       (161070) #######</code></pre>
+SOUTHAMPTON       (161070) #######
+```
 
-<pre><code>$ head -10 district.tsv  | ../bin/histogram.awk
+```
+$ head -10 district.tsv  | ../bin/histogram.awk
 BIRMINGHAM        (287828) #################################################################
 LEEDS             (257632) ###########################################################
 BRADFORD          (173120) ########################################
@@ -207,9 +224,11 @@ CITY OF BRISTOL   (149031) ##################################
 WANDSWORTH        (134851) ###############################
 KIRKLEES          (131368) ##############################
 LIVERPOOL         (126932) #############################
-EAST RIDING OF YO (125271) #############################</code></pre>
+EAST RIDING OF YO (125271) #############################
+```
 
-<pre><code>$ head -10 county.tsv  | ../bin/histogram.awk 
+```
+$ head -10 county.tsv  | ../bin/histogram.awk 
 GREATER LONDON   (2520251) #################################################################
 GREATER MANCHESTE (843778) ######################
 WEST MIDLANDS     (739206) ####################
@@ -219,6 +238,7 @@ ESSEX             (544377) ###############
 HAMPSHIRE         (516377) ##############
 SURREY            (450990) ############
 LANCASHIRE        (435968) ############
-HERTFORDSHIRE     (426834) ############</code></pre>
+HERTFORDSHIRE     (426834) ############
+```
 
-	<p>Time&#8217;s up! <a href="http://blog.whatfettle.com/2014/10/17/one-csv-thirty-stories-day-4-scattering/">Tomorrow</a> we should make some timelines and dig more deeply into those prices.</p>
+Time’s up! [Tomorrow](http://blog.whatfettle.com/2014/10/17/one-csv-thirty-stories-day-4-scattering/) we should make some timelines and dig more deeply into those prices.
